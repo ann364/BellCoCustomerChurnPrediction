@@ -1,3 +1,2 @@
-I am a Data Scientist for Bell  & Company - phone and internet provider company that is concerned about the number of customers leaving their business for competitors. 
-The company needs to know which customers are leaving and attempt to mitigate continued customer loss. 
-I have been asked to analyze customer data to identify why customers are leaving and potential indicators to explain why those customers are leaving so the company can make an informed plan to mitigate further loss.
+Bell  & Company is phone and internet provider company that is concerned about the number of customers leaving their business for competitors. The company wants to know which customers are leaving and attempt to mitigate continued customer loss. 
+As a Data Scientist, I have been asked to analyze customer data to identify why customers are leaving and potential indicators to explain why those customers are leaving so the company can make an informed plan to mitigate further loss.
